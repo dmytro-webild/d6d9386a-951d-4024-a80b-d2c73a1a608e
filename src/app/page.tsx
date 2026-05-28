@@ -79,11 +79,11 @@ export default function LandingPage() {
       useInvertedBackground={true}
       features={[
         {
-          title: "Curated Quality",          description: "Only the top 1% of content reaches our library.",          imageSrc: "http://img.b2bpic.net/free-photo/3d-abstract-low-poly-plexus-design-background_1048-12191.jpg"},
+          title: "Curated Quality",          description: "Only the top 1% of content reaches our library.",          imageSrc: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},
         {
-          title: "Cinematic Aesthetics",          description: "Designed for focus, distraction-free reading.",          imageSrc: "http://img.b2bpic.net/free-vector/20-web-design-solid-glyph-icon-presentation-vector-icons-illustration_1142-18502.jpg"},
+          title: "Cinematic Aesthetics",          description: "Designed for focus, distraction-free reading.",          imageSrc: "https://images.unsplash.com/photo-1512436991641-6745cdb31b8f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},
         {
-          title: "Accelerated Insights",          description: "Designed for executive time management.",          imageSrc: "http://img.b2bpic.net/free-photo/optical-fiber-straws-black-screen_23-2148241254.jpg"},
+          title: "Accelerated Insights",          description: "Designed for executive time management.",          imageSrc: "https://images.unsplash.com/photo-1456518171120-d3b66d713a0e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},
       ]}
       title="The Ribooks Standard"
       description="Every title undergoes our rigorous quality assessment to ensure you are receiving the best knowledge available."
